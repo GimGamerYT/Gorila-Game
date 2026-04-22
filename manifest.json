@@ -1,0 +1,16 @@
+{
+  "name": "Cyber Gorilla Ultimate",
+  "short_name": "CyberGorilla",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#ff0055",
+  "orientation": "landscape",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/689/689307.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
